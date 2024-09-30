@@ -10,7 +10,7 @@ A simple Python script that clears the Windows Recycle Bin with a confirmation p
 
 ## Requirements
 
-- Python 3.x
+- Python 3.xx
 - `tkinter` (usually included with standard Python installations)
 
 ## Installation
